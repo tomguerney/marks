@@ -2,8 +2,23 @@
 
 ## Bookmarks on the command line
 
-### Under development! But to have a crack at it now:
+### Still under development! But it works well enough so to have a crack at it now:
 
+1) [Install go](https://golang.org/doc/install)
+
+2) Install marks:
+```
+go get github.com/tomguerney/marks
+echo "contentPath: $HOME" > $HOME/.marks.yaml
+touch $HOME/bookmarks.yaml
+```
+
+3) Try it out:
+```
+marks add "Abc News" --url www.abc.net.au --tag news --tag "current affairs"
+marks open news
+```
+### Usage
 ```
 Usage:
   marks [command]
