@@ -7,7 +7,7 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/abitofoldtom/marks/marks"
+	"github.com/tomguerney/marks/marks"
 )
 
 type printer struct {

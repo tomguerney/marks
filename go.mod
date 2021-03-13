@@ -1,4 +1,4 @@
-module github.com/abitofoldtom/marks
+module github.com/tomguerney/marks
 
 go 1.15
 

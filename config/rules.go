@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/abitofoldtom/marks/marks"
+	"github.com/tomguerney/marks/marks"
 )
 
 var browserMustBeSupported = func(c *marks.Config) error {

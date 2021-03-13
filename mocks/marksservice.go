@@ -1,6 +1,6 @@
 package mocks
 
-import "github.com/abitofoldtom/marks/marks"
+import "github.com/tomguerney/marks/marks"
 
 type MarkService struct {
 	MarkFn           func(id string) (*marks.Mark, error)

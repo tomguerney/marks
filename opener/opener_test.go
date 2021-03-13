@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/abitofoldtom/marks/mocks"
+	"github.com/tomguerney/marks/mocks"
 )
 
 func newTestOpener() *opener {

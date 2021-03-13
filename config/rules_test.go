@@ -3,7 +3,7 @@ package config
 import (
 	"testing"
 
-	"github.com/abitofoldtom/marks/mocks"
+	"github.com/tomguerney/marks/mocks"
 )
 
 func TestBrowserMustBeSupportedPass(t *testing.T) {

@@ -4,9 +4,9 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/abitofoldtom/marks/mocks"
+	"github.com/tomguerney/marks/mocks"
 
-	"github.com/abitofoldtom/marks/marks"
+	"github.com/tomguerney/marks/marks"
 )
 
 type mockProvider struct {

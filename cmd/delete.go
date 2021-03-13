@@ -16,14 +16,14 @@ limitations under the License.
 package cmd
 
 import (
-	"github.com/abitofoldtom/marks/arg"
-	"github.com/abitofoldtom/marks/colorizer"
-	"github.com/abitofoldtom/marks/config"
-	"github.com/abitofoldtom/marks/io"
-	"github.com/abitofoldtom/marks/printer"
-	"github.com/abitofoldtom/marks/prompter"
-	"github.com/abitofoldtom/marks/runner"
-	"github.com/abitofoldtom/marks/yaml"
+	"github.com/tomguerney/marks/arg"
+	"github.com/tomguerney/marks/colorizer"
+	"github.com/tomguerney/marks/config"
+	"github.com/tomguerney/marks/io"
+	"github.com/tomguerney/marks/printer"
+	"github.com/tomguerney/marks/prompter"
+	"github.com/tomguerney/marks/runner"
+	"github.com/tomguerney/marks/yaml"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 	"github.com/spf13/viper"

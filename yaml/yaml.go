@@ -4,7 +4,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/abitofoldtom/marks/marks"
+	"github.com/tomguerney/marks/marks"
 	"gopkg.in/yaml.v2"
 )
 

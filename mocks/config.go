@@ -1,6 +1,6 @@
 package mocks
 
-import "github.com/abitofoldtom/marks/marks"
+import "github.com/tomguerney/marks/marks"
 
 func NewConfig() *marks.Config {
 	return &marks.Config{

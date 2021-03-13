@@ -3,7 +3,7 @@ package config
 import (
 	"strings"
 
-	"github.com/abitofoldtom/marks/marks"
+	"github.com/tomguerney/marks/marks"
 )
 
 type loader struct {

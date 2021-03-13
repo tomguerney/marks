@@ -3,7 +3,7 @@ package mocks
 import (
 	"strings"
 
-	"github.com/abitofoldtom/marks/marks"
+	"github.com/tomguerney/marks/marks"
 )
 
 type Printer struct {

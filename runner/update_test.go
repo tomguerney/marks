@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/abitofoldtom/marks/marks"
-	"github.com/abitofoldtom/marks/mocks"
+	"github.com/tomguerney/marks/marks"
+	"github.com/tomguerney/marks/mocks"
 )
 
 func newTestUpdateRunner() *update {
