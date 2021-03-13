@@ -15,7 +15,7 @@ touch $HOME/bookmarks.yaml
 
 3) Try it out:
 ```
-marks add "Abc News" --url www.abc.net.au --tag news --tag "current affairs"
+marks add "Abc News" --url https://www.abc.net.au/news/ --tag news --tag "current affairs"
 marks open news
 ```
 ### Usage
