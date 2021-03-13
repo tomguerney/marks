@@ -1,0 +1,25 @@
+- id: Google
+  url: https://www.google.com
+  tags:
+    - search
+- id: Abc News
+  url: https://www.abc.net.au/news/
+  tags:
+    - news
+    - current affairs
+- id: Little Bird Electronics How-to Guides & Tutorials
+  url: https://www.littlebird.com.au/a/how-to#raspberry-pi
+  tags:
+    - raspberry pi
+    - tutorial
+    - electronics
+- id: BBC News
+  url: https://www.bbc.com/news
+  tags:
+    - news
+    - uk
+- id: Electronics Weekly
+  url: https://www.electronicsweekly.com/news/
+  tags:
+    - news
+    - electronics
